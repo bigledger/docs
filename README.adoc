@@ -12,5 +12,5 @@ See content here
 More content here.
 
 == Applets
-content/applets/index.adoc[Full list of Applets]
+link:content/applets/index.adoc[Full list of Applets]
 
