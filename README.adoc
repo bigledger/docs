@@ -10,3 +10,7 @@ See content here
 
 == Resellers
 More content here.
+
+== Applets
+content/applets/index.adoc[Full list of Applets]
+
