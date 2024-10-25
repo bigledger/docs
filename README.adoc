@@ -1,0 +1,12 @@
+= BigLedger Platform
+
+Welcome to BigLedger, the best platform for enterprise.
+
+== End Users
+All the resources for developers.
+
+== Developers
+See content here
+
+== Resellers
+More content here.
