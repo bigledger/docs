@@ -1,2 +1,4 @@
 = All Applets
 A comprehensive list of applets.
+
+link:a-file.adoc[link to a file]
