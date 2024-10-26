@@ -1,6 +1,6 @@
 = BigLedger Platform
 
-image::bigledger_logo.jpeg[] // image
+image::bigledger_logo.jpeg[BigLedger Logo] 
 
 Welcome to BigLedger, the best platform for enterprise.
 
