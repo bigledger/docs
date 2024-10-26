@@ -14,3 +14,6 @@ More content here.
 == Applets
 link:content/applets/index.adoc[Full list of Applets]
 
+include::content/test_include.adoc[]
+
+see if this works.
