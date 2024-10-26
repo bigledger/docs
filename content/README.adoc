@@ -1,0 +1,3 @@
+= Content Folder
+
+We will group our content based on the folders
